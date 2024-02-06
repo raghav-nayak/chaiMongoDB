@@ -1,4 +1,4 @@
-##### 1. How many users are active?
+### 1. How many users are active?
 answer:
 ```js
 [

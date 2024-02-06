@@ -1,4 +1,4 @@
-##### 5. Which country has highest number of registered users?
+### 5. Which country has highest number of registered users?
 
 ```js
 [

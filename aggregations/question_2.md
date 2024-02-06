@@ -1,4 +1,4 @@
-##### 2. What is the average age of all users?
+### 2. What is the average age of all users?
 
 answer:
 here null means everything. That means it will put everything as a single document.

@@ -1,4 +1,4 @@
-##### 6. List all unique eye colors present in the collection.
+### 6. List all unique eye colors present in the collection.
 
 ```js
 [

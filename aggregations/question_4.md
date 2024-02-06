@@ -1,4 +1,4 @@
-##### 4. Find the total number of males and females
+### 4. Find the total number of males and females
 
 ```js
 [{

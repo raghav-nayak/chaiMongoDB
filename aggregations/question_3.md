@@ -1,4 +1,4 @@
-##### 3. List the top 2 most common favourite fruits.
+### 3. List the top 2 most common favorite fruits.
 
 ```js
 [
