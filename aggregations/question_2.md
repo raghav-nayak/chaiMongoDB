@@ -40,12 +40,9 @@ output:
 {
   "averageAge": 29.81854043392505,
   "_id": "female"
-}
+},
 {
   "_id": "male",
   "averageAge": 29.851926977687626
 }
 ```
-
-
-
