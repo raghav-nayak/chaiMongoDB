@@ -15,3 +15,4 @@ Different operators used in different exercises are
 - [$sort](https://www.mongodb.com/docs/manual/reference/operator/aggregation/sort/)
 - [$group](https://www.mongodb.com/docs/manual/reference/operator/aggregation/group/)
 - [$push](https://www.mongodb.com/docs/manual/reference/operator/update/push/)
+- [$all](https://www.mongodb.com/docs/manual/reference/operator/query/all/)
